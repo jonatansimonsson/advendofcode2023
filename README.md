@@ -6,3 +6,5 @@ I do this to get familiar in multiple laguages previously unknown to me and to h
 **Languages used:**
 
 **Day 1:** PHP
+
+**Day 2:** Julia
