@@ -8,3 +8,8 @@ I do this to get familiar in multiple laguages previously unknown to me and to h
 **Day 1:** PHP
 
 **Day 2:** Julia
+
+**Day 3:** Haskell 🙃🙃🙃
+
+**Day 4:** Ruby 
+
