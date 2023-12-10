@@ -13,3 +13,7 @@ I do this to get familiar in multiple laguages previously unknown to me and to h
 
 **Day 4:** Ruby 
 
+**Day 5:** Perl
+
+**Day 6:** GoLang
+
