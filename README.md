@@ -17,3 +17,7 @@ I do this to get familiar in multiple laguages previously unknown to me and to h
 
 **Day 6:** GoLang
 
+**Day 7:** PowerShell
+
+**Day 9:** Elixir
+
